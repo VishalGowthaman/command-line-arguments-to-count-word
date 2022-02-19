@@ -31,7 +31,7 @@ print("Word Count in File=",count)
 ```   
 ### OUTPUT:
 ![GITLOGO](./OUTPUT1.png)
-![GITLOGO](./OUTPUT2.png)
+
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
